@@ -40,6 +40,6 @@ export class AuthController {
 
   @Get()
   async greeting() {
-    return "It's worked !!!";
+    return "It's worked !!!. This is sample RESTApi";
   }
 }
